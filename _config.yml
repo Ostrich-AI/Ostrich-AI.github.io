@@ -1,18 +1,14 @@
 title: Mihir Thakkar # your name (or website title) here
 logo: "/images/Headshot.png?raw=true" # your photo (or logo) here 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  We help start- ups & SME’s tackle complex problems, automate tasks, and address recurring issues.
+  Seasoned Data Science & FinTech Professional with a passion for driving business growth through data-driven strategies.
   <br><br>
-  Our team of experts has the skillset to assist you with:
-  <br
-  - Branding Strategies
-  <br
-  - Business Analysis
-  <br
-  - Data Science
+  Completed and ongoing projects include exploratory data analysis, powerful data-driven dashboards, machine learning classification, and predictive modeling.
+  <br><br>
+  Explore our work and feel free to connect!
   <br><br>
   <a href="https://wa.me/c/917021684214">Connect on Whatsapp</a> 
-  
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
