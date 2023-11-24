@@ -4,7 +4,7 @@
 | --- | --- |
 | [Vintest Wines](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines/README.md) | Explore how we leveraged exploratory data analysis to identify the finest ingredients based on wine tasters' feedback and local tastes. |
 | [Accredian Telecom](https://github.com/Mihir-Ai-lab/Insaid/blob/main/EDA%20Projects/Accredian%20Telecom/README.md) | Empowering Businesses with data-driven insights through a powerful data-driven dashboard facilitating targeted marketing, audience understanding, and enhanced user engagement. |
-| [AE Corp](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/README.md) | Machine learning classification to determine which customers should be prioritized for exceptional services. |
+| [AE Bank](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/README.md) | Machine learning classification to determine which customers should be prioritized for exceptional services. |
 | [Employee Attrition Prediction Model](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/ACS/README.md) | Predict and prevent employee attrition with data-driven insights.|
 
 ## Ongoing Projects
