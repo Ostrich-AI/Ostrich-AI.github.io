@@ -1,3 +1,5 @@
+## About
+
 ## Completed Projects
 
 | Project | Description |
