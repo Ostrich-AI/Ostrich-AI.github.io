@@ -1,6 +1,6 @@
-## Portfolio
+# Portfolio
 
-# Completed Projects
+### Completed Projects
 
 | Project | Description |
 | --- | --- |
@@ -9,7 +9,7 @@
 | [AE Bank](https://github.com/Mihir-Ai-lab/Insaid/blob/main/ML%20Projects/AE%20Corp/README.md) | Machine learning classification to determine which customers should be prioritized for exceptional services. |
 | [Employee Attrition Prediction Model](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/ACS/README.md) | Predict and prevent employee attrition with data-driven insights.|
 
-# Ongoing Projects
+### Ongoing Projects
 
 | Project | Description |
 | --- | --- |
