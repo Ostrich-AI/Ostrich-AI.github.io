@@ -43,15 +43,6 @@
             <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
             {% endif %}
 
-            {% if site.github.is_user_page %}
-            <p class="view social-icons">
-                <a href="https://linkedin.com/in/thedatascienceguy"><i class="fab fa-linkedin fa-2x"></i></a>
-                <a href="https://twitter.com/TDataScienceGuy"><i class="fab fa-twitter fa-2x"></i></a>
-                <a href="{{ site.github.owner_url }}"><i class="fab fa-github fa-2x"></i></a>
-                <a href="https://wa.me/917021684214"><i class="fab fa-whatsapp fa-2x"></i></a>
-            </p>
-            {% endif %}
-
             {% if site.show_downloads %}
             <ul class="downloads">
                 <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -69,9 +60,19 @@
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}
+            
+            {% if site.github.is_user_page %}
+            <p class="social-icons">
+                <a href="https://linkedin.com/in/thedatascienceguy"><i class="fab fa-linkedin fa-2x"></i></a>
+                <a href="https://twitter.com/TDataScienceGuy"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://instagram.com/tdatascienceguy?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="{{ site.github.owner_url }}"><i class="fab fa-github fa-2x"></i></a>
+                <a href="https://wa.me/917021684214"><i class="fab fa-whatsapp fa-2x"></i></a>
+                <a href="mailto:mihir@thedatascienceguy.info?subject=Enquiry"><i class="fas fa-envelope fa-2x"></i></a>
+            </p>
+            {% endif %}
         </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 </html>
-
