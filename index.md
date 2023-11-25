@@ -1,9 +1,3 @@
-## About Me
-
-I am a seasoned professional with a background in Marketing and Business Management, deeply passionate about leveraging Data Science, Big Data, Hyperledger, and Blockchain technologies. Currently, I am actively involved in collaborative efforts to develop a Blockchain enhanced Data Asset Management & Distributed Computing Platform.
-
-In addition to my tech pursuits, I play a pivotal role in managing my family businesses, including Starclaytech Pvt Ltd, a manufacturing company, and M.K Logistics, a logistics company.
-
 ## Completed Projects
 
 | Project | Description |
