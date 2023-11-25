@@ -1,10 +1,12 @@
-title: Mihir Thakkar # your name (or website title) here
-logo: "/images/Circle.png?raw=true" # your photo (or logo) here 
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Mihir Thakkar 
+logo: "/images/Circle.png?raw=true" 
+description: > 
+  Seasoned Data Science and FinTech Expert.
+  <br><br>
+  Transforming Business Growth through Data-driven Strategies
+  <br><br>
   <a href="https://wa.me/917021684214">Connect on Whatsapp</a>
   <br><br>
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
+theme: ekyll-theme-minimal
 google_analytics: G-HW3XTE97VR # Google tag here
