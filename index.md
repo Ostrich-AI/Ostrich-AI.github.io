@@ -11,7 +11,7 @@
 
 | Project | Description |
 | --- | --- |
-| [BigMart Sales Prediction](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Big%20Mart/README.md) | Application of machine learning to optimize sales predictions in the retail industry. |
+| [Big Mart Sales Prediction](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Big%20Mart/README.md) | Application of machine learning to optimize sales predictions in the retail industry. |
 | [Home Sweet Home](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Home%20Sweet%20Home/ReadME.md) | Advanced machine learning algorithm to predict house prices with precision for informed real estate investment decisions. |
 | [E Corp](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/E-corp/ReadME.md) | Automation of employee access approval processes through a classification model leveraging employee roles and resource requests. |
 
