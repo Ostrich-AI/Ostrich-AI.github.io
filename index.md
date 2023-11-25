@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Social%20Media%20Header.png"></p>
-
 ---
 
 ## About Me
