@@ -51,6 +51,10 @@
         th {
             color: #bbbcbc; /* Light grey font color for table header */
         }
+
+        .logo-container {
+            margin-bottom: 20px; /* Add margin to create space between logo and content */
+        }
     </style>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -60,11 +64,13 @@
 <body>
     <div class="wrapper">
         <header>
-            <h1><a href="{{ "/" | absolute_url }}" style="color: #8c8c8c;">{{ site.title | default: site.github.repository_name }}</a></h1>
+            <div class="logo-container">
+                <h1><a href="{{ "/" | absolute_url }}" style="color: #8c8c8c;">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-            {% if site.logo %}
-                <img src="{{site.logo | relative_url}}" alt="Logo" />
-            {% endif %}
+                {% if site.logo %}
+                    <img src="{{site.logo | relative_url}}" alt="Logo" />
+                {% endif %}
+            </div>
 
             <p>{{ site.description | default: site.github.project_tagline }}</p>
 
