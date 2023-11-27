@@ -1,5 +1,7 @@
 # Portfolio
 
+<p align="center"><a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png"></a></p>
+
 ### Completed Projects
 
 | Project | Description |
