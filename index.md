@@ -2,7 +2,7 @@
 
 ### Completed Projects
 
-| **Project** | **Description** |
+| Project | Description |
 | --- | --- |
 | [Vintest Wines](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines/README.md) | Explore how we leveraged exploratory data analysis to identify the finest ingredients based on wine tasters' feedback and local tastes. |
 | [Accredian Telecom](https://github.com/Mihir-Ai-lab/Insaid/blob/main/EDA%20Projects/Accredian%20Telecom/README.md) | Empowering Businesses with data-driven insights through a powerful data-driven dashboard facilitating targeted marketing, audience understanding, and enhanced user engagement. |
@@ -11,7 +11,7 @@
 
 ### Ongoing Projects
 
-| **Project** | **Description** |
+| Project | Description |
 | --- | --- |
 | [Big Mart Sales Prediction](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Big%20Mart/README.md) | Application of machine learning to optimize sales predictions in the retail industry. |
 | [Home Sweet Home](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/main/ML%20Projects/Home%20Sweet%20Home/ReadME.md) | Advanced machine learning algorithm to predict house prices with precision for informed real estate investment decisions. |
