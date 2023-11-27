@@ -1,5 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Text%20Banner.png"></p>
 <br><br>
+
 ### Completed Projects
 
 | Project | Description |
