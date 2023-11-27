@@ -19,8 +19,26 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
+        body {
+            background-color: #fff5e1; /* Cream background color */
+            color: #555; /* Grey font color */
+        }
+
+        .wrapper {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header, footer {
+            background-color: #f0f8ff; /* Light blue header/footer background color */
+            padding: 10px;
+            text-align: center;
+        }
+
         .social-icons a {
-            margin-right: 15px; /* Adjust the margin as needed */
+            margin-right: 15px;
+            color: #555; /* Grey social icon color */
         }
     </style>
     <!--[if lt IE 9]>
@@ -58,7 +76,7 @@
         </section>
         <footer>
             {% if site.github.is_project_page %}
-            <p align="center"><a href="<img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Footer.png">"></a></p>
+            <p align="center"><a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Footer.png"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Footer.png" alt="Footer Image"></a></p>
             {% endif %}
             
             {% if site.github.is_user_page %}
