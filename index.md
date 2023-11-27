@@ -4,7 +4,7 @@
 
 ### Completed Projects
 
-| Project | Description |
+| **Project** | **Description** |
 | --- | --- |
 | [Vintest Wines](https://github.com/Mihir-Ai-lab/Insaid/tree/main/EDA%20Projects/Vintest%20Wines/README.md) | Explore how we leveraged exploratory data analysis to identify the finest ingredients based on wine tasters' feedback and local tastes. |
 | [Accredian Telecom](https://github.com/Mihir-Ai-lab/Insaid/blob/main/EDA%20Projects/Accredian%20Telecom/README.md) | Empowering Businesses with data-driven insights through a powerful data-driven dashboard facilitating targeted marketing, audience understanding, and enhanced user engagement. |
