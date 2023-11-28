@@ -1,5 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Logo%20Full.png"></p>
-
 [About](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
 
 I am a results-driven professional with over a decade of success spanning Marketing, Business Management, Manufacturing, and Logistics. Certified in Data Science and FinTech, I specialize in Machine Learning, leveraging cutting-edge technologies to drive innovative solutions.
