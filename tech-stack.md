@@ -1,12 +1,17 @@
-[About](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
+[About Me](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
 
-Hera is a list of technologies & frameworks that I am curently working with - 
+## Current Tech Stack
+
+As a seasoned professional in data science and business analysis, I work with a diverse set of technologies and frameworks. Here's a snapshot of what I am currently using:
 
 | Technology | Tools |
 | --- | --- |
 | Python | Scikit-learn, NumPy, Pandas, TensorFlow, Keras, PyTorch, Spark |
-| Cloud Services | AWS, Azure, Google Cloud |
+| Cloud Services | AWS |
 | Databases | MongoDB, Postgres, MySQL, SQLite |
-| Visualization | Plotly, Tableau |
+| Visualization | Plotly, Tableau, PowerBI |
 | Design | Canva, Figma |
-| Other Tools | Git, Jupyter Notebook, VS Code |
+| Microsoft Tools | Excel, Word, PowerPoint |
+| Version Control | Git |
+| Notebooks | Jupyter Notebook |
+| Integrated Development Environment | VS Code |
