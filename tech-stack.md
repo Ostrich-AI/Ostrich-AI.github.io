@@ -1,8 +1,6 @@
 [About Me](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
 
-## Current Tech Stack
-
-As a seasoned professional in data science and business analysis, I work with a diverse set of technologies and frameworks. Here's a snapshot of what I am currently using:
+I work with a diverse set of technologies and frameworks. Here's a snapshot of what I am currently using:
 
 | Technology | Tools |
 | --- | --- |
