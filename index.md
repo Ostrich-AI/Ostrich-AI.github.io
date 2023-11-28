@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Social%20Media%20Header.png"></p>
-
 ---
+
 [About Me](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
 
 ---
