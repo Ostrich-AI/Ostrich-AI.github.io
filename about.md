@@ -1,4 +1,4 @@
-### About Me
+[About](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
 
 I am a results-driven professional with over a decade of success spanning Marketing, Business Management, Manufacturing, and Logistics.
 
