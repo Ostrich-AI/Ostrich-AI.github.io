@@ -1,6 +1,3 @@
-<p align="center"><a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Header.png"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Header.png"></a></p>
-
----
 # About Us
 
 At The Data Science Guy, we help start-ups & SME’s businesses tackle complex problems, automate tasks, and address recurring issues. 
@@ -22,11 +19,7 @@ Our team of experts has the skillset to assist you with:
 
 ---
 # Services
-
 | | | |
 |:--|:--|:--|
 | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Branding"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Branding.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Business%20Analysis"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Business%20Analytics.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Data%20Science"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Data%20Science.png"> |
 | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Business%20Strategy"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Business%20Strategy.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Content%20Management"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Content%20Management.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Data%20Warehousing"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Data%20Warehousing.png"> |
-
----
-<p align="center"><a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Footer.png"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Footer.png"></a></p>
