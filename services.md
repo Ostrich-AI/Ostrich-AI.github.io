@@ -1,16 +1,16 @@
-<p align="center"><a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Header.png"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Header.png"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Header.png"></a></p>
 
 ---
 # About Us
 
-At The Data Science Guy, we help start- ups & SME’s businesses tackle complex problems, automate tasks, and address recurring issues. 
+At The Data Science Guy, we help start-ups & SME’s businesses tackle complex problems, automate tasks, and address recurring issues. 
 Our team of experts has the skillset to assist you with:
 
 - Building a unique and powerful brand identity that reflects your business values and connects with your target audience.
 - Gaining deeper insights into your business environment, competition, and potential growth opportunities.
 - Uncovering hidden insights and trends in your data to drive data-driven decisions and business growth.
 - Developing a comprehensive business plan and strategy that outlines goals, objectives, key performance indicators, and action plans.
-- Efficiently managing and analysing large volumes of data to meet your business needs.
+- Efficiently managing and analyzing large volumes of data to meet your business needs.
 - Creating, managing, and distributing content that aligns with your brand and resonates with your target audience.
 
 ---
@@ -25,8 +25,8 @@ Our team of experts has the skillset to assist you with:
 
 | | | |
 |:--|:--|:--|
-| <a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/tree/main/Services/Branding"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Branding.png"> | <a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/tree/main/Services/Business%20Analysis"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Business Analytics.png"> | <a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/tree/main/Services/Data%20Science"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Data Science.png">
-| <a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/tree/main/Services/Business%20Strategy"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Business Strategy.png"> | <a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/tree/main/Services/Content%20Management"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Content Management.png"> | <a href="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/tree/main/Services/Data%20Warehousing"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Services/Images/Data Warehousing.png"> |
+| <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Branding"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Branding.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Business%20Analysis"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Business%20Analytics.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Data%20Science"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Data%20Science.png"> |
+| <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Business%20Strategy"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Business%20Strategy.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Content%20Management"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Content%20Management.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Data%20Warehousing"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Data%20Warehousing.png"> |
 
 ---
-<p align="center"><a href="https://thedatascienceguy.go.studio/"><img src="https://github.com/Mihir-Ai-lab/The_Data_Science_Guy/blob/main/Images/Notebook%20Footer.png"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Footer.png"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Images/Notebook%20Footer.png"></a></p>
