@@ -1,0 +1,9 @@
+<!-- _includes/navigation.html -->
+
+<nav>
+  <ul>
+    {% for page in site.header_pages %}
+      <li><a href="{{ page }}">{{ page | replace: '.md', '' }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
