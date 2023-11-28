@@ -1,3 +1,7 @@
+---
+title: Github Stats
+---
+
 [About](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
 
 Have a look at my Github Stats - 
