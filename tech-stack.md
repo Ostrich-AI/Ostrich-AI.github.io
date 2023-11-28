@@ -1,4 +1,4 @@
-[About](/index.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
+[About](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
 
 Hera is a list of technologies & frameworks that I am curently working with - 
 
