@@ -1,4 +1,4 @@
-# About Us
+### About Us
 
 At The Data Science Guy, we help start-ups & SME’s businesses tackle complex problems, automate tasks, and address recurring issues. 
 Our team of experts has the skillset to assist you with:
@@ -10,15 +10,14 @@ Our team of experts has the skillset to assist you with:
 - Efficiently managing and analyzing large volumes of data to meet your business needs.
 - Creating, managing, and distributing content that aligns with your brand and resonates with your target audience.
 
----
-# Why Choose Us?  
+### Why Choose Us?  
 
 - Our Business Analytics teams offer a range of services, including supply chain financing, revenue-based financing, digital lending profiling, agri-lending profiling, credit underwriting suggestions, credit score improvement, neo-banking, SME financing, and factoring finance.
 - Our Branding Team can guide you to the right website designers and software developers, all through our proprietary platform.
 - Our Data Science Team can help you recruit the right people for the job, develop better models, and provide access to cloud computing, API Economy, and robotic process automation.
 
----
-# Services
+### Services
+
 | | | |
 |:--|:--|:--|
 | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Branding"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Branding.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Business%20Analysis"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Business%20Analytics.png"> | <a href="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Data%20Science"><img src="https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Data%20Science.png"> |
