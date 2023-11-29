@@ -2,7 +2,7 @@
 title: About
 ---
 
-[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tech-stack.md) | [Certifications](/github-stats.md)
+[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tools.md) | [Certifications](/github-stats.md)
 
 I am a results-driven professional with over a decade of success spanning Marketing, Business Management, Manufacturing, and Logistics.
 
