@@ -2,7 +2,7 @@
 title: About
 ---
 
-[About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"}
+[About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"} | [Services](/services.md){: style="font-size: 18px;"} 
 
 I am a results-driven professional with over a decade of success spanning Marketing, Business Management, Manufacturing, and Logistics.
 
