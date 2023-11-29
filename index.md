@@ -1,4 +1,4 @@
-[About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"}
+[About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"} | [Services](/services.md){: style="font-size: 18px;"} 
 
 Navigating the diverse realms of Marketing, Business Management, Manufacturing, and Logistics for over a decade & Recently certified in Data Science and FinTech, my passion revolves around harnessing the potential of Machine Learning. 
 
