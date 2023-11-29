@@ -4,7 +4,7 @@ title: Services
 
 [About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"} | [Services](/services.md){: style="font-size: 18px;"}
 
-Explore how we can enhance your business through these services:
+Unlock the full potential of your business with our comprehensive services:
 
 | | | | |
 | --------------- | -------------- | ------------------ | --------------- |
