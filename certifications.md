@@ -2,7 +2,7 @@
 title: Certifications
 ---
 
-[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tools.md) | [Certifications](/certifications.md)
+[About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"}
 
 ## Certifications
 
