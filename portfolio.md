@@ -2,7 +2,7 @@
 title: Portfolio
 ---
 
-[About](/about.md) | [Tech Stack](/tech-stack.md) | [Portfolio](/portfolio.md) | [GitHub Stats](/github-stats.md) | [Credits](/credits.md)
+[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tech-stack.md) | [Certifications](/github-stats.md)
 
 ### Completed Projects
 
