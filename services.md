@@ -4,7 +4,6 @@ title: Services
 
 [About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"} | [Services](/services.md){: style="font-size: 18px;"} 
 
-Here is what i can help you with - 
 | | | | |
 | --------------- | -------------- | ------------------ | --------------- |
 | [![Branding](https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Branding.png)](https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Branding) | Building a unique and powerful brand identity that reflects your business values and connects with your target audience.| [![Content Management](https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Images/Content%20Management.png)](https://raw.githubusercontent.com/Mihir-Ai-lab/The_Data_Science_Guy/main/Services/Content%20Management) | Creating, managing, and distributing content that aligns with your brand and resonates with your target audience. |
