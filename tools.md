@@ -2,7 +2,7 @@
 title: Tools
 ---
 
-[About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"}
+[About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"} | [Services](/services.md){: style="font-size: 18px;"} 
 
 I work with a diverse set of technologies and frameworks. Here's a snapshot of what I am currently using:
 
