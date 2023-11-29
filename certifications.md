@@ -13,10 +13,10 @@ title: Certifications
 
 ## Education
 
-| Institute | Degree | Courses |
+| Degree | Institute | Courses |
 |-----------|--------|----------|
-| Aston Business School | MSc, Marketing Management | Marketing Management, Foundations of Marketing Science, Marketing Research, Marketing Strategy, Integrated Marketing Communications, International Marketing Management, Marketing Psychology, Strategic Management |
-| Manipal Academy of Higher Education - MAHE, Dubai | B.B.A, Management, Marketing | Services Marketing, Strategic Marketing, Advertising & Sales Promotion, Consumer Behavior, Retailing Management, Business Research Methods, Project Management |
+| MSc, Marketing Management | Aston Business School | Marketing Management, Foundations of Marketing Science, Marketing Research, Marketing Strategy, Integrated Marketing Communications, International Marketing Management, Marketing Psychology, Strategic Management |
+| B.B.A, Management, Marketing | Manipal Academy of Higher Education - MAHE, Dubai | Services Marketing, Strategic Marketing, Advertising & Sales Promotion, Consumer Behavior, Retailing Management, Business Research Methods, Project Management |
 
 ## Github Stats
 
