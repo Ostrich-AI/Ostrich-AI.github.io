@@ -2,7 +2,7 @@
 title: Portfolio
 ---
 
-[About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"} | [Services](/services.md){: style="font-size: 18px;"} 
+[About](/about.md){: style="font-size: 20px;"} | [Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Tools](/tools.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"} | [Services](/services.md){: style="font-size: 20px;"} 
 
 ### Completed Projects
 
