@@ -1,8 +1,5 @@
 [About](/about.md){: style="font-size: 18px;"} | [Portfolio](/portfolio.md){: style="font-size: 18px;"} | [Tools](/tools.md){: style="font-size: 18px;"} | [Certifications](/certifications.md){: style="font-size: 18px;"}
 
-
-[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tools.md) | [Certifications](/certifications.md)
-
 Navigating the diverse realms of Marketing, Business Management, Manufacturing, and Logistics for over a decade & Recently certified in Data Science and FinTech, my passion revolves around harnessing the potential of Machine Learning. 
 
 I dive into tools like Python, PowerBI, MySQL, and Jupyter Notebooks, extracting meaningful insights from intricate datasets. Challenges fuel my drive, and I thrive on spotting architectural weak points, implementing effective solutions, and finding joy in automation, streamlining processes, and optimizing efficiency.
