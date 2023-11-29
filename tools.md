@@ -2,7 +2,7 @@
 title: Tools
 ---
 
-[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tech-stack.md) | [Certifications](/github-stats.md)
+[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tools.md) | [Certifications](/github-stats.md)
 
 I work with a diverse set of technologies and frameworks. Here's a snapshot of what I am currently using:
 
