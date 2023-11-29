@@ -1,8 +1,8 @@
 ---
-title: Certifications and Education
+title: Certifications
 ---
 
-[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tech-stack.md) | [Certifications](/certifications.md)
+[About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tools.md) | [Certifications](/certifications.md)
 
 ---
 
