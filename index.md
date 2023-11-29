@@ -1,7 +1,5 @@
 [About](/about.md) | [Portfolio](/portfolio.md) | [Tools](/tools.md) | [Certifications](/certifications.md)
 
-I am a results-driven professional with over a decade of success spanning Marketing, Business Management, Manufacturing, and Logistics. Certified in Data Science and FinTech, I specialize in Machine Learning, leveraging cutting-edge technologies to drive innovative solutions.
+Hey there, I'm Mihir Thakkar, navigating the diverse realms of Marketing, Business Management, Manufacturing, and Logistics for over a decade. Recently certified in Data Science and FinTech, my passion revolves around harnessing the potential of Machine Learning. I dive into technologies like Python, PowerBI, MySQL, and Jupyter Notebooks, extracting meaningful insights from intricate datasets. Challenges fuel my drive, and I thrive on spotting architectural weak points, implementing effective solutions, and finding joy in automation, streamlining processes, and optimizing efficiency.
 
-If you are seeking a decisive and innovative professional to tackle complex business challenges, explore data science frontiers, or drive FinTech initiatives, feel free to connect with me.
-
-Let's collaborate to foster success in this dynamic and ever-evolving landscape.
+Beyond my professional pursuits, I actively contribute to community building. Join me on [The Data Science Guy Live Hub](https://thedatascienceguy.live/hub/login) for collaborative coding adventures. I enjoy leading by example, fostering discussions, and encouraging collaborative efforts. Let's connect and explore opportunities for impactful collaboration and success.
