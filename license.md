@@ -7,7 +7,7 @@ title: License
 
 ## License
 
-These projects are licensed under the [MIT License](LICENSE).
+These projects are licensed under the [MIT License](https://github.com/Mihir-Ai-lab/Academic-Projects/blob/0be1d35465c01c08ef8daebf456cf25f90b8d504/LICENSE)
 
 ## Credits
 
