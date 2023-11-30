@@ -2,7 +2,7 @@
 title: Certifications
 ---
 
-[Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Services](/services.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"} | [Tools](/tools.md){: style="font-size: 20px;"}
+[Services](/services.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"} | [Tools](/tools.md){: style="font-size: 20px;"}
 
 ## Certifications
 
