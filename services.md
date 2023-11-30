@@ -2,7 +2,7 @@
 title: Services
 ---
 
-[About](/about.md){: style="font-size: 20px;"} | [Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Services](/services.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"}
+[Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Services](/services.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"}
 
 Unlock the full potential of your business with our comprehensive services: 
 
