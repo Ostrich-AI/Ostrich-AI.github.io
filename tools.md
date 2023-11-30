@@ -2,7 +2,7 @@
 title: Tools
 ---
 
-[Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"} | [Tools](/tools.md){: style="font-size: 20px;"} | [License](/license.md){: style="font-size: 20px;"}
+[Certifications](/certifications.md){: style="font-size: 20px;"} | [Tools](/tools.md){: style="font-size: 20px;"} | [License](/license.md){: style="font-size: 20px;"}
 
 I work with a diverse set of technologies and frameworks. Here's a snapshot of what I am currently using:
 
