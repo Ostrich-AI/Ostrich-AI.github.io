@@ -2,7 +2,7 @@
 title: Portfolio
 ---
 
-[About](/about.md){: style="font-size: 20px;"} | [Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Book a 1:1 Call](/appointment.md){: style="font-size: 20px;"} 
+[About](/about.md){: style="font-size: 20px;"} | [Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Contact](/contact.md){: style="font-size: 20px;"} 
 
 ### Completed Projects
 
