@@ -2,7 +2,7 @@
 title: Book an Appointment
 ---
 
-[Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Book a 1:1 Call](/appointment.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"}
+[Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Contact](/contact.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"}
 
 Unlock the full potential of your business with our comprehensive offerings:
 
