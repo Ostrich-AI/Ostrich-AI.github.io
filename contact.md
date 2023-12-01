@@ -1,5 +1,5 @@
 ---
-title: Book an Appointment
+title: Contact
 ---
 
 [Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Contact](/contact.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"}
