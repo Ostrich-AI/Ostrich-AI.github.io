@@ -4,7 +4,9 @@ title: Contact
 
 [Portfolio](/portfolio.md){: style="font-size: 20px;"} | [Contact](/contact.md){: style="font-size: 20px;"} | [Certifications](/certifications.md){: style="font-size: 20px;"}
 
-Looking to discuss your specific needs? [Book a 30-minute consultation](https://calendly.com/thedatascienceguy/30min) .
+Looking to discuss your specific needs? 
+
+[Book a 30-minute consultation](https://calendly.com/thedatascienceguy/30min) .
 
 Unlock the full potential of your business with our comprehensive offerings:
 
