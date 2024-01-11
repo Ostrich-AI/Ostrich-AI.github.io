@@ -66,6 +66,9 @@
             {% if site.logo %}
                 <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
+            
+            <!-- Site Description -->
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
         </header>
         <section>
             {{ content }}
