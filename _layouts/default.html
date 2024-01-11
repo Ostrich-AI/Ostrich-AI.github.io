@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
@@ -19,7 +15,7 @@ layout: default
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     {% seo %}
     
     <!-- Styles -->
@@ -67,13 +63,9 @@ layout: default
     <div class="wrapper">
         <header>
             <!-- Site Title and Logo -->
-            <h1><a href="{{ "/" | absolute_url }}" style="color: #ffffff;">{{ site.title | default: site.github.repository_name }}</a></h1>
             {% if site.logo %}
                 <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
-            
-            <!-- Site Description -->
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
         </header>
         <section>
             {{ content }}
@@ -82,12 +74,12 @@ layout: default
             {% if site.github.is_user_page %}
             <!-- Social Icons -->
             <p class="social-icons">
-                <a href="https://www.linkedin.com/company/87977842/"><i class="fab fa-linkedin fa-2x"></i></a>
+                <a href="https://www.linkedin.com/company/thedatascienceguy/"><i class="fab fa-linkedin fa-2x"></i></a>
                 <a href="https://wa.me/message/KRPZNKJVSAWKD1"><i class="fab fa-whatsapp fa-2x"></i></a>
                 <a href="https://www.instagram.com/ostrich_ai/"><i class="fab fa-instagram fa-2x"></i></a>
                 <a href="https://www.facebook.com/Ostrich.AI.Solutions?mibextid=vk8aRt"><i class="fab fa-facebook fa-2x"></i>
                 <a href="https://maps.app.goo.gl/UhezRTPNJZTgMbV69"><i class="fas fa-map-marker-alt fa-2x"></i></a>
-                <a href="mailto:mihir@ostrich-ai?subject=Enquiry"><i class="fas fa-envelope fa-2x"></i></a>
+                <a href="mailto:mihir@ostrich-ai?subject=Enquiry""><i class="fas fa-envelope fa-2x"></i></a>
             </p>
             {% endif %}
         </footer>
