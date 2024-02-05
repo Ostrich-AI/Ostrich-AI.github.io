@@ -2,7 +2,7 @@
 title: About Us
 ---
 
-[About us](/about.md){: style="font-size: 20px;"} | [Register Now](/register.md){: style="font-size: 20px;"}
+[About us](/index.md){: style="font-size: 20px;"} | [Register Now](/register.md){: style="font-size: 20px;"}
 
 <iframe width="95%" height="50%" src="https://www.youtube.com/embed/kXoxLXhi7BI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 
@@ -15,7 +15,5 @@ Our platform harmonizes data providers, data scientists, algorithms, and remote 
 ### Our Mission
 
 Democratizing AI infrastructure costs for Companies.
-
-As we fine-tune our MVP and explore use cases within the Indian BFSI industry, we invite you to be a part of our journey.
 
 ---
