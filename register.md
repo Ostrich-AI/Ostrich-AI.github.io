@@ -5,6 +5,7 @@ title: Register
 [About us](/index.md){: style="font-size: 20px;"} | [Early Bird Access](/register.md){: style="font-size: 20px;"}
 
 <iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
 
 ## Be an Early Bird Member
 
