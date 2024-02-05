@@ -2,7 +2,7 @@
 title: About Us
 ---
 
-[About us](/index.md){: style="font-size: 20px;"} | [Register Now](/register.md){: style="font-size: 20px;"}
+[About us](/index.md){: style="font-size: 20px;"} | [Early Bird Access](/register.md){: style="font-size: 20px;"}
 
 <iframe width="95%" height="50%" src="https://www.youtube.com/embed/kXoxLXhi7BI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
 
@@ -15,5 +15,3 @@ Our platform harmonizes data providers, data scientists, algorithms, and remote 
 ### Our Mission
 
 Democratizing AI infrastructure costs for Companies.
-
----
