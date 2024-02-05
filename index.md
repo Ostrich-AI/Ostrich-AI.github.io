@@ -25,8 +25,3 @@ As we fine-tune our MVP and explore use cases within the Indian BFSI industry, w
 Ready to shape the future of AI with Ostrich? 
 
 Click on [Register Now](https://ostrich.thedatascienceguy.online/candidates) and become part of something extraordinary!
-
-
----
-
-<iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
