@@ -2,15 +2,19 @@
 title: Register
 ---
 
-[About us](/index.md){: style="font-size: 20px;"} | [Register Now](/register.md){: style="font-size: 20px;"}
+[About us](/about.md){: style="font-size: 20px;"} | [Register Now](/register.md){: style="font-size: 20px;"}
 
 <iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
-Be an Early Bird Member: We are currently accepting early bird members for the platform. Data scientists can join for free during this exclusive period!
+## Be an Early Bird Member
 
-Explore Opportunities: Dive into a world of possibilities where talent, data, and infrastructure converge to redefine the AI landscape.
+We are currently accepting early bird members for the platform. Data scientists can join for free during this exclusive period!
 
-Ready to shape the future of AI with Ostrich? 
+### Explore Opportunities
+
+Dive into a world of possibilities where talent, data, and infrastructure converge to redefine the AI landscape.
+
+### Ready to Shape the Future?
 
 [Register Now](https://ostrich.thedatascienceguy.online/candidates) and become part of something extraordinary!
