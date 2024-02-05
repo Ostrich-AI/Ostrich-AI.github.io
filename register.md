@@ -2,7 +2,7 @@
 title: Register
 ---
 
-[About us](/about.md){: style="font-size: 20px;"} | [Register Now](/register.md){: style="font-size: 20px;"}
+[About us](/index.md){: style="font-size: 20px;"} | [Register Now](/register.md){: style="font-size: 20px;"}
 
 <iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
