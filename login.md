@@ -2,6 +2,8 @@
 title: Login
 ---
 
+[About us](/index.md){: style="font-size: 20px;"} | [Early Bird](/register.md){: style="font-size: 20px;"} | [Institution Login](/login.md){: style="font-size: 20px;"}
+
 ## Welcome, Institutions!
 
 Unlock the power of data-driven solutions with Ostrich AI. As a partner institution, you gain access to a collaborative platform where cutting-edge algorithms meet real-world challenges.
