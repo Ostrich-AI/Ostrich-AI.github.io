@@ -17,4 +17,4 @@ Dive into a world of possibilities where talent, data, and infrastructure conver
 
 ### Ready to Shape the Future?
 
-**[Register Now](https://ostrich-ai.com/register.html){: style="font-size: 20px;"}** and become part of something extraordinary!
+**[Register Now]([https://ostrich-ai.com/register.html](https://ostrich.thedatascienceguy.online/candidates?_gl=1*si12ct*_ga*MTY5NDg1MTI4NC4xNzA3MTIxODM0*_ga_HW3XTE97VR*MTcwNzEyMTgzMy4xLjEuMTcwNzEyNzk3Ny41NC4wLjA)https://ostrich.thedatascienceguy.online/candidates?_gl=1*si12ct*_ga*MTY5NDg1MTI4NC4xNzA3MTIxODM0*_ga_HW3XTE97VR*MTcwNzEyMTgzMy4xLjEuMTcwNzEyNzk3Ny41NC4wLjA){: style="font-size: 20px;"}** and become part of something extraordinary!
