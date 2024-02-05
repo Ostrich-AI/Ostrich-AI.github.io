@@ -12,7 +12,6 @@ title: Login
 Unlock the power of data-driven solutions with Ostrich AI. As a partner institution, you gain access to a collaborative platform where cutting-edge algorithms meet real-world challenges.
 
 ### Key Features:
-
 - Hackathons: Host AI challenges and tap into a pool of talented data scientists.
 - Deployment: Deploy winning algorithms on our platform and enhance your operations.
 
