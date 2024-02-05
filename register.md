@@ -5,6 +5,7 @@ title: Register
 [About us](/index.md){: style="font-size: 20px;"} | [Register Now](/register.md){: style="font-size: 20px;"}
 
 <iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
 
 Be an Early Bird Member: We are currently accepting early bird members for the platform. Data scientists can join for free during this exclusive period!
 
