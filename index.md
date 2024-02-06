@@ -4,7 +4,8 @@ title: About Us
 
 [About us](/index.md){: style="font-size: 20px;"} | [Register Now](https://ostrich.thedatascienceguy.online/candidates){: style="font-size: 20px;"} | [Institution Login](https://ostrich.thedatascienceguy.online/banks){: style="font-size: 20px;"}
 
-<iframe width="95%" height="50%" src="https://www.youtube.com/embed/kXoxLXhi7BI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br>
+<iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
 
 ## Welcome to Ostrich AI
 
@@ -16,10 +17,7 @@ Our platform harmonizes data providers, data scientists, algorithms, and remote 
 
 Democratizing AI infrastructure costs for Companies.
 
-<iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
-
-## Be an Early Bird Member
+### Be an Early Bird Member
 
 We are currently accepting early bird members for the platform. Data scientists can join for free during this exclusive period!
 
