@@ -17,4 +17,4 @@ Unlock the power of data-driven solutions with Ostrich AI. As a partner institut
 
 ### Ready to Transform?
 
-**[Register Now](https://ostrich.thedatascienceguy.online/banks){: style="font-size: 20px;"}** and revolutionize your approach to AI/ML.
+**[Register Now](){: style="font-size: 20px;"}** and revolutionize your approach to AI/ML.
