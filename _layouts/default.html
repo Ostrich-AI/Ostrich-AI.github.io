@@ -44,7 +44,7 @@
             color: #00E6E6; 
         }
 
-       a {
+        a {
             color: #FFFFFF; /* Change this to your desired link color */
             text-decoration: none; /* Remove underlines from links */
         }
@@ -65,7 +65,7 @@
         <header>
             <!-- Site Title and Logo -->
             {% if site.logo %}
-                <img src="{{site.logo | relative_url}}" alt="Logo" />
+                <img src="{{ site.logo | relative_url }}" alt="Logo" />
             {% endif %}
             
             <!-- Site Description -->
@@ -80,9 +80,9 @@
             <p class="social-icons">
                 <a href="https://www.linkedin.com/company/ostrichai"><i class="fab fa-linkedin fa-2x"></i></a>
                 <a href="https://www.instagram.com/ostrich_ai/"><i class="fab fa-instagram fa-2x"></i></a>
-                <a href="https://www.facebook.com/Ostrich.AI.Solutions?mibextid=vk8aRt"><i class="fab fa-facebook fa-2x"></i>
+                <a href="https://www.facebook.com/Ostrich.AI.Solutions?mibextid=vk8aRt"><i class="fab fa-facebook fa-2x"></i></a>
                 <a href="https://maps.app.goo.gl/UhezRTPNJZTgMbV69"><i class="fas fa-map-marker-alt fa-2x"></i></a>
-                <a href="mailto:contact@ostrich-ai?subject=Enquiry from Landing Page""><i class="fas fa-envelope fa-2x"></i></a>
+                <a href="mailto:contact@ostrich-ai?subject=Enquiry from Landing Page"><i class="fas fa-envelope fa-2x"></i></a>
             </p>
             {% endif %}
         </footer>
