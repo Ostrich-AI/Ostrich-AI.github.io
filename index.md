@@ -13,6 +13,15 @@ Ostrich AI is India's pioneering platform in Data Management & Distributed Compu
 
 Our platform harmonizes data providers, data scientists, algorithms, and remote nodes, creating a collaborative ecosystem for cutting-edge algorithmic solutions. We prioritize data reliability, accountability, and security to shape the future of AI.
 
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Ostrich AI",
+  "logo": "{{ site.logo | absolute_url }}"
+}
+</script>
+
 ### Our Mission
 
 Democratizing AI infrastructure costs for Companies.
