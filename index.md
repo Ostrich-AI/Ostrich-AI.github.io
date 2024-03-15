@@ -2,7 +2,7 @@
 title: About Us
 ---
 
-[About us](/index.md){: style="font-size: 20px;"} | [Register Now](https://ostrich.thedatascienceguy.online/candidates){: style="font-size: 20px;"} | [Institution Login](https://ostrich.thedatascienceguy.online/banks){: style="font-size: 20px;"}
+[About us](/index.md){: style="font-size: 20px;"} | [Register Now](https://nas.io/ostrich-ai){: style="font-size: 20px;"} |
 
 <iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
