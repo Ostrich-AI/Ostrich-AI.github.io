@@ -2,16 +2,16 @@
 title: About Us
 ---
 
-[About us](/index.md){: style="font-size: 20px;"} | [Register Now](https://nas.io/ostrich-ai){: style="font-size: 20px;"} |
+[About Us](/index.md){: style="font-size: 20px;"} | [Join the community](https://nas.io/ostrich-ai){: style="font-size: 20px;"}
 
-<iframe width="95%" height="50%" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
 ## Welcome to Ostrich AI
 
-Ostrich AI is India's pioneering platform in Data Management & Distributed Computing.
+Ostrich AI is India's leading platform for Data Management & Distributed Computing.
 
-Our platform harmonizes data providers, data scientists, algorithms, and remote nodes, creating a collaborative ecosystem for cutting-edge algorithmic solutions. We prioritize data reliability, accountability, and security to shape the future of AI.
+We bring together data providers, scientists, algorithms, and remote nodes, fostering collaboration and innovation in cutting-edge algorithmic solutions. Our commitment to data reliability, accountability, and security sets the standard for the future of AI.
 
 <script type="application/ld+json">
 {
@@ -24,12 +24,12 @@ Our platform harmonizes data providers, data scientists, algorithms, and remote 
 
 ### Our Mission
 
-Democratizing AI infrastructure costs for Companies.
+Empowering companies by democratizing AI infrastructure costs.
 
-### Be an Early Bird Member
+### Early Bird Membership
 
-We are currently accepting early bird members for the platform. Data scientists can join for free during this exclusive period!
+Join our exclusive early bird membership program! Data scientists can sign up for free during this limited-time offer.
 
 ### Explore Opportunities
 
-Dive into a world of possibilities where talent, data, and infrastructure converge to redefine the AI landscape.
+Discover a world of opportunities where talent, data, and infrastructure converge to redefine the AI landscape.
