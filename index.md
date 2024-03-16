@@ -16,17 +16,17 @@ title: About Us
 }
 </script>
 
-## Welcome to Ostrich AI
+## About us
 
-Welcome to Ostrich AI, where we're pioneering a new era in Enterprise AI. Our platform is designed to streamline the journey from secured data sharing to deployment, all while fostering a vibrant community of top-tier talent. With a focus on reducing costs and enhancing efficiency, we empower AI/ML practicing enterprises with:
+At Ostrich AI, we are at the forefront of innovation, leveraging the power of Artificial Intelligence and Machine Learning to revolutionize industries.
 
-- Secure data sharing capabilities compliant with GDPR standards
-- Access to a global network of top data scientists at a fraction of the cost
-- Secure deployment of trained/test models on remote GPUs
+### Our Vision
+
+Our vision is to create a future where data, infrastructure, and people converge seamlessly to unlock the full potential of AI technology, driving positive change and creating value for our clients and partners.
 
 ### Our Mission
 
-At Ostrich AI, we're on a mission to democratize AI infrastructure costs for companies worldwide. By unifying the three pillars of AI - Data, People, and Infrastructure, we aim to solve critical challenges faced by AI builders, including secure data sharing, cost-effective access to talent, and optimization of project costs.
+Our mission is to empower enterprises with transformative AI Solutions, driving efficiency, innovation, and growth.
 
 ### Be an Early Bird Member
 
