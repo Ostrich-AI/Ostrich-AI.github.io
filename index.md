@@ -27,7 +27,3 @@ Our vision is to create a future where data, infrastructure, and people converge
 ### Our Mission
 
 Our mission is to empower enterprises with transformative AI Solutions, driving efficiency, innovation, and growth.
-
-| Be an Early Bird Member | Explore Opportunities | Join the Community | Register Now |
-|--------------------------|-------------------------|---------------------|------------------|
-| Join us as an early bird member and gain exclusive access to our platform during this exclusive period. Data scientists can join for free and experience the power of our unified AI ecosystem firsthand. | Dive into a world of possibilities where talent, data, and infrastructure converge to redefine the AI landscape. Whether you're a seasoned AI practitioner or just getting started, Ostrich AI offers endless opportunities for growth, collaboration, and innovation. | Become a part of our vibrant WhatsApp community and connect with brilliant minds worldwide. Engage in meaningful discussions, explore relevant groups, and dive into exciting conversations tailored to your interests. Let's collaborate, learn, and grow together! | Ready to take the next step? Register now to join our growing community of AI enthusiasts, data scientists, and industry experts. Experience the future of Enterprise AI with Ostrich AI today! |
