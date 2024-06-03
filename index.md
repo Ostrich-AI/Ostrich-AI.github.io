@@ -4,7 +4,7 @@ title: About Us
 
 [About Us](/index.md){: style="font-size: 20px;"} | [Join the community](https://nas.io/ostrich-ai){: style="font-size: 20px;"} | [Register Now](https://ostrich.thedatascienceguy.online/candidates){: style="font-size: 20px;"}
 
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/PSqOqgNhroo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/kXoxLXhi7BI?si=U15Q5oE2Vc5KAxIX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
 <script type="application/ld+json">
