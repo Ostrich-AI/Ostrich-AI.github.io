@@ -27,14 +27,3 @@ Our vision is to create a future where data, infrastructure, and people converge
 ### Our Mission
 
 Our mission is to empower enterprises with transformative AI Solutions, driving efficiency, innovation, and growth.
-
-## Join Our Community
-
-<iframe
-    title="DATA_BURROUGH checkout widget"
-    src="https://nas.io/checkout-widget?communityCode=DATA_BURROUGH&communitySlug=%2Fostrich-ai&buttonText=Join%20as%20member&buttonTextColorHex=%23000&buttonBgColorHex=%23fccb1d&widgetTheme=dark&backgroundColorHex=%23000"
-    width="100%"
-    height="320"
-    frameborder="0"
-    referrerpolicy="no-referrer"
-></iframe>
