@@ -10,7 +10,7 @@ title: Welcome to Ostrich AI
 
 At Ostrich AI, we are dedicated to revolutionizing the way enterprises approach data science and AI initiatives.
 
-### Our Studio
+### Our Enterprise AI Studio
 
 Ostrich A-eye facilitates data analytics and model deployment, addressing real-world challenges faced by enterprises. With nodes in specific regions for compliance and our Datathon module, we help you find the right talent and deploy models efficiently.
 
