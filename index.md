@@ -2,9 +2,6 @@
 title: Welcome to Ostrich AI
 ---
 
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/kXoxLXhi7BI?si=U15Q5oE2Vc5KAxIX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br>
-
 ## Welcome to Ostrich AI
 
 At Ostrich AI, we are dedicated to revolutionizing the way enterprises approach data science and AI initiatives.
