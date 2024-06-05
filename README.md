@@ -1,1 +1,1 @@
-This is The Coming Soon Page for Ostrich-Ai
+This is the Landing Page for Ostrich Ai Solutions & Integrated Systems Pvt Ltd
