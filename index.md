@@ -1,6 +1,3 @@
----
-title: Welcome to Ostrich AI
----
 ## Welcome to Ostrich AI
 
 At Ostrich AI, we are dedicated to revolutionizing the way enterprises approach data science and AI initiatives.
@@ -22,6 +19,3 @@ By using Ostrich AI, you can expect to:
 - Reduce ML Data to Deployment Costs: Lower your costs by 30-40%.
 - Boost Model Building Capability: Increase your capability by 3x.
 - Enhance Efficiency: Improve efficiency in model management by 35%.
-
-<br>
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/kXoxLXhi7BI?si=U15Q5oE2Vc5KAxIX" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
